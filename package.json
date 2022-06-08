@@ -19,7 +19,7 @@
     "url": "https://github.com/El-Mariachi760/profile-cast/issues"
   },
   "homepage": "https://github.com/El-Mariachi760/profile-cast#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^28.1.1"
   }
 }
