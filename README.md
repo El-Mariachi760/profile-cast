@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  A professionally done dev team profile generator, consiting of information on the manager, engineers and interns.
+  A professionally done dev team profile generator, consisting of information on the manager, engineers and interns.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -11,6 +11,12 @@
   * [Tests](#tests)
   * [Languages](#Languages)
   * [Questions](#Questions)
+
+
+  ### Screenshot
+  
+  
+![profile-cast](https://user-images.githubusercontent.com/94568874/172984266-9cfa698b-1651-40d1-8a56-05da9f300837.png)
 
 
   ### Demo
