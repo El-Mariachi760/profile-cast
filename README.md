@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  A professionally done dev team profile generator, consisting of information on the manager, engineers and interns.
+  A professionally done command-line app that generates dev team profiles for the manager, engineers and interns, based on reponses to the question prompts.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
